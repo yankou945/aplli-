@@ -1,8 +1,8 @@
 import { useEffect, useState } from "react";
 import uuid from "react-uuid";
 import "./App.css";
-import Main from "./main/Main";
-import Sidebar from "./sidebar/Sidebar";
+import Main from "./Main";
+import Sidebar from "./Sidebar";
 
 function App() {
   const [notes, setNotes] = useState(
@@ -17,7 +17,7 @@ function App() {
   const onAddNote = () => {
     const newNote = {
       id: uuid(),
-      title: "Untitled Note",
+      title: "Aucune Notes",
       body: "",
       lastModified: Date.now(),
     };
