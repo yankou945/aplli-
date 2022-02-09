@@ -1,0 +1,3 @@
+pour pouvoir lancer la note il faut il lancer le cmder puis mettre cd "le chemin pour acceder au fichier" ensuite tapez npm i pour installer est npm start pour 
+lancer une fois avoir tout cela on atterie dans la page d'accueil ou on peut créé des carnet une fois le carnet crée il y a un logo voir sur le carnet on a juste a clicker deçu 
+pour voir les note qui si trouve une fois sur les notte on peut en crée les modifier en rajouter ou les supprimer pour retourner a l'accueil il suffit de clicker sur le bouton accueil.
